@@ -4,7 +4,7 @@
 
 **FatFish** is a contemporary website designed with a focus on simplicity and aesthetics. This project is perfect for showcasing creative content or building an online presence with an elegant touch.
 
-🌐 [View Live Demo](https://srg201.github.io/fatfish/)
+🌐 [View Live Demo](https://www.fatfish.co.il/campaign/2025audit)
 
 ## ✨ Key Features
 
